@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using StudentManagement;
+using StudentManagement.Data;
+using StudentManagement.Models;
 
 [ApiController]
 [Route("api/[controller]")]

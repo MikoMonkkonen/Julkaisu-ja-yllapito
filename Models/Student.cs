@@ -1,4 +1,4 @@
-namespace StudentManagement
+namespace StudentManagement.Models
 {
     public class Student
     {
